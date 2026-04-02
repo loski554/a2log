@@ -1,6 +1,6 @@
-# AnalyzLog
+# A2Log
 ## 📌 Description projet
-**AnalyzLog** est un outil en ligne de commande développé en Python permettant d’analyser des fichiers de logs applicatifs (`.log`).  
+**A2Log** est un outil en ligne de commande développé en Python permettant d’analyser des fichiers de logs applicatifs (`.log`).  
 Il extrait, organise et analyse les événements afin de produire un **rapport de synthèse lisible**, destiné à un usage humain (exploitation, diagnostic).
 
 ## 🛠️ Fonctionnalités principales
@@ -13,7 +13,7 @@ Il extrait, organise et analyse les événements afin de produire un **rapport d
 
 ## 📂 Structure du projet
 ```css
-analyzlog/
+a2log/
 main.py
 modules/
 - arguments.py
@@ -31,8 +31,8 @@ README.md
 ## ➡️ Utilisation
 1. Cloner le projet dans vos documents:
 ```bash
-git clone https://github.com/loski554/AnalyzLog
-cd AnalyzLog
+git clone https://github.com/loski554/a2log
+cd a2log
 ```
 
 2. Lancer le projet:
